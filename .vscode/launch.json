@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Exercise 1",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/exercise1/main.py",
+        "console": "integratedTerminal"
+      },
+      {
+        "name": "Run Exercise 2",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/exercise2/main.py",
+        "console": "integratedTerminal"
+      },
+      {
+        "name": "Run Exercise 3",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/exercise3/main.py",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  
