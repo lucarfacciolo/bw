@@ -21,6 +21,8 @@ sudo apt install python3.9-venv
 python3.9 -m venv venv
 #activate venv
 source venv/bin/activate
+#install requirements
+pip install -r prod-requirements.txt
 #upgrade cython, some libs need to compile code
 pip install --upgrade cython
 #handle binaries/libs
