@@ -46,4 +46,5 @@ invalid_utf8.txt should ignore characters that are not recognizable by utf8
 binary_file.txt should break, given that is not a normal file
 
 ## Exercise 3
+
 just run debug on exercise 3 and test variables and states on debug terminal
